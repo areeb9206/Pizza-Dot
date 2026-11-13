@@ -1,0 +1,381 @@
+{
+  "chicken-tikka": {
+    "name": "Chicken Tikka Pizza",
+    "category": "Pizza",
+    "description": "Juicy tikka-style chicken, mozzarella, green peppers and our signature sauce.",
+    "image": "assets/images/real-pizza-1.webp",
+    "variants": {
+      "small": {
+        "label": "Small",
+        "price": 250
+      },
+      "medium": {
+        "label": "Medium",
+        "price": 500
+      },
+      "large": {
+        "label": "Large",
+        "price": 700
+      }
+    },
+    "active": true,
+    "featured": true,
+    "tag": "Bestseller"
+  },
+  "chicken-fajita": {
+    "name": "Chicken Fajita Pizza",
+    "category": "Pizza",
+    "description": "Tender fajita chicken, onions, capsicum and melted cheese.",
+    "image": "assets/images/real-pizza-2.webp",
+    "variants": {
+      "small": {
+        "label": "Small",
+        "price": 250
+      },
+      "medium": {
+        "label": "Medium",
+        "price": 500
+      },
+      "large": {
+        "label": "Large",
+        "price": 700
+      }
+    },
+    "active": true,
+    "featured": true,
+    "tag": ""
+  },
+  "bbq-spicy": {
+    "name": "BBQ Spicy Pizza",
+    "category": "Pizza",
+    "description": "Smoky barbecue chicken with a fiery, cheesy finish.",
+    "image": "assets/images/real-pizza-3.webp",
+    "variants": {
+      "small": {
+        "label": "Small",
+        "price": 250
+      },
+      "medium": {
+        "label": "Medium",
+        "price": 500
+      },
+      "large": {
+        "label": "Large",
+        "price": 700
+      }
+    },
+    "active": true,
+    "featured": true,
+    "tag": "Spicy"
+  },
+  "cheese-lover": {
+    "name": "Cheese Lover Pizza",
+    "category": "Pizza",
+    "description": "Rich tomato sauce finished with an extra-generous layer of cheese.",
+    "image": "assets/images/menu-pizza.webp",
+    "variants": {
+      "small": {
+        "label": "Small",
+        "price": 250
+      },
+      "medium": {
+        "label": "Medium",
+        "price": 500
+      },
+      "large": {
+        "label": "Large",
+        "price": 700
+      }
+    },
+    "active": true,
+    "featured": true,
+    "tag": ""
+  },
+  "veggie-lover": {
+    "name": "Veggie Lover Pizza",
+    "category": "Pizza",
+    "description": "A colorful mix of capsicum, onion, olives and sweet corn.",
+    "image": "assets/images/pizza-slice.webp",
+    "variants": {
+      "small": {
+        "label": "Small",
+        "price": 250
+      },
+      "medium": {
+        "label": "Medium",
+        "price": 500
+      },
+      "large": {
+        "label": "Large",
+        "price": 700
+      }
+    },
+    "active": true,
+    "featured": false,
+    "tag": ""
+  },
+  "malai-boti": {
+    "name": "Malai Boti Pizza",
+    "category": "Pizza",
+    "description": "Creamy, delicately spiced chicken boti with plenty of mozzarella.",
+    "image": "assets/images/real-pizza-2.webp",
+    "variants": {
+      "small": {
+        "label": "Small",
+        "price": 250
+      },
+      "medium": {
+        "label": "Medium",
+        "price": 500
+      },
+      "large": {
+        "label": "Large",
+        "price": 700
+      }
+    },
+    "active": true,
+    "featured": true,
+    "tag": ""
+  },
+  "creamy-tikka": {
+    "name": "Creamy Tikka Pizza",
+    "category": "Pizza",
+    "description": "Creamy sauce meets tender chicken tikka and mozzarella.",
+    "image": "assets/images/real-pizza-1.webp",
+    "variants": {
+      "small": {
+        "label": "Small",
+        "price": 250
+      },
+      "medium": {
+        "label": "Medium",
+        "price": 500
+      },
+      "large": {
+        "label": "Large",
+        "price": 700
+      }
+    },
+    "active": true,
+    "featured": false,
+    "tag": ""
+  },
+  "afghani-feast": {
+    "name": "Afghani Feast Pizza",
+    "category": "Pizza",
+    "description": "Bold Afghani-inspired chicken flavors and our soft-baked crust.",
+    "image": "assets/images/real-pizza-3.webp",
+    "variants": {
+      "small": {
+        "label": "Small",
+        "price": 250
+      },
+      "medium": {
+        "label": "Medium",
+        "price": 500
+      },
+      "large": {
+        "label": "Large",
+        "price": 700
+      }
+    },
+    "active": true,
+    "featured": false,
+    "tag": ""
+  },
+  "supreme-pepperoni": {
+    "name": "Supreme Pepperoni",
+    "category": "Specialties",
+    "description": "A premium pizza topped with savory pepperoni and cheese.",
+    "image": "assets/images/supreme-pepperoni.webp",
+    "variants": {
+      "regular": {
+        "label": "Regular",
+        "price": 900
+      }
+    },
+    "active": true,
+    "featured": true,
+    "tag": ""
+  },
+  "double-flavour-crown": {
+    "name": "Double Flavour Crown",
+    "category": "Specialties",
+    "description": "Two flavor combinations in one crown-style pizza.",
+    "image": "assets/images/double-flavour.webp",
+    "variants": {
+      "regular": {
+        "label": "Regular",
+        "price": 900
+      }
+    },
+    "active": true,
+    "featured": false,
+    "tag": ""
+  },
+  "pasta-lasagna": {
+    "name": "Pasta Lasagna",
+    "category": "Specialties",
+    "description": "Oven-baked pasta layered with savory sauce and melted cheese.",
+    "image": "assets/images/pasta-lasagna.webp",
+    "variants": {
+      "regular": {
+        "label": "Regular",
+        "price": 500
+      }
+    },
+    "active": true,
+    "featured": true,
+    "tag": ""
+  },
+  "limca-lemon": {
+    "name": "Limca Lemon",
+    "category": "Drinks",
+    "description": "A chilled, refreshing lemon-flavoured Limca drink.",
+    "image": "assets/images/limca-drink.webp",
+    "variants": {
+      "regular": {
+        "label": "Regular",
+        "price": 100
+      }
+    },
+    "active": true,
+    "featured": false,
+    "tag": ""
+  },
+  "limca-orange": {
+    "name": "Limca Orange",
+    "category": "Drinks",
+    "description": "Cool and citrusy orange-flavoured refreshment.",
+    "image": "assets/images/limca-drink.webp",
+    "variants": {
+      "regular": {
+        "label": "Regular",
+        "price": 100
+      }
+    },
+    "active": true,
+    "featured": false,
+    "tag": ""
+  },
+  "limca-blueberry": {
+    "name": "Limca Blueberry",
+    "category": "Drinks",
+    "description": "Sweet, tangy blueberry-flavoured fizzy refreshment.",
+    "image": "assets/images/limca-drink.webp",
+    "variants": {
+      "regular": {
+        "label": "Regular",
+        "price": 100
+      }
+    },
+    "active": true,
+    "featured": false,
+    "tag": ""
+  },
+  "limca-peach": {
+    "name": "Limca Peach",
+    "category": "Drinks",
+    "description": "A refreshing peach-flavoured drink.",
+    "image": "assets/images/limca-drink.webp",
+    "variants": {
+      "regular": {
+        "label": "Regular",
+        "price": 100
+      }
+    },
+    "active": true,
+    "featured": false,
+    "tag": ""
+  },
+  "special-flavour": {
+    "name": "Special Flavour Drink",
+    "category": "Drinks",
+    "description": "Ask our team which special refreshment is available today.",
+    "image": "assets/images/limca-drink.webp",
+    "variants": {
+      "regular": {
+        "label": "Regular",
+        "price": 130
+      }
+    },
+    "active": true,
+    "featured": false,
+    "tag": ""
+  },
+  "deal-1111": {
+    "name": "11.11 Special \u2014 Two Large Pizzas",
+    "category": "Deals",
+    "description": "Two large pizzas at the special promotional price. Confirm the flavors in your order notes.",
+    "image": "assets/images/special-pizzas.webp",
+    "variants": {
+      "deal": {
+        "label": "2 Large Pizzas",
+        "price": 1111
+      }
+    },
+    "active": true,
+    "featured": true,
+    "tag": "Special Offer"
+  },
+  "deal-five-small": {
+    "name": "Five Small Pizza Deal",
+    "category": "Deals",
+    "description": "Share the joy with five small pizzas. Add flavor preferences in your order notes.",
+    "image": "assets/images/hot-deals.webp",
+    "variants": {
+      "deal": {
+        "label": "5 Small Pizzas",
+        "price": 1200
+      }
+    },
+    "active": true,
+    "featured": true,
+    "tag": ""
+  },
+  "deal-two-large": {
+    "name": "Two Large Pizza Deal",
+    "category": "Deals",
+    "description": "Two large pizzas for the classic bundle price.",
+    "image": "assets/images/hot-deals.webp",
+    "variants": {
+      "deal": {
+        "label": "2 Large Pizzas",
+        "price": 1200
+      }
+    },
+    "active": true,
+    "featured": false,
+    "tag": ""
+  },
+  "deal-three-medium": {
+    "name": "Three Medium Pizza Deal",
+    "category": "Deals",
+    "description": "Three medium pizzas at a bundled deal price.",
+    "image": "assets/images/hot-deals.webp",
+    "variants": {
+      "deal": {
+        "label": "3 Medium Pizzas",
+        "price": 1300
+      }
+    },
+    "active": true,
+    "featured": true,
+    "tag": ""
+  },
+  "deal-three-large": {
+    "name": "Three Large Pizza Deal",
+    "category": "Deals",
+    "description": "Three large pizzas, made for family and friends.",
+    "image": "assets/images/hot-deals.webp",
+    "variants": {
+      "deal": {
+        "label": "3 Large Pizzas",
+        "price": 1700
+      }
+    },
+    "active": true,
+    "featured": true,
+    "tag": ""
+  }
+}
